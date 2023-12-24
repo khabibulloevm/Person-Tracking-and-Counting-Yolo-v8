@@ -1,0 +1,5 @@
+numpy
+torch
+ultralytics
+torchvision
+opencv-python
